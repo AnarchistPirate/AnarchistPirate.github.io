@@ -1,2 +1,2 @@
-# 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Nation, Liberty, Tradition, Markets, World, Authority, and Progress.
+# PirateValues.github.io
+The PirateValues Political Quiz by @anarchist.pirate measures individuals' Pirate values, including Plunder vs Diplomacy, Pirate vs Loyalist, New Worlder vs Old Worlder.
